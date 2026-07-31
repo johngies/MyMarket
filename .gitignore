@@ -1,0 +1,11 @@
+# Αγνόηση όλων των .class αρχείων
+*.class
+
+# Αγνόηση του φακέλου out
+/out/
+
+.idea/workspace.xml
+
+*.iml
+.idea/
+out/

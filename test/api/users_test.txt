@@ -1,0 +1,2 @@
+user1;password1;CUSTOMER;firstName1;lastName1
+admin2;password2;ADMIN;;

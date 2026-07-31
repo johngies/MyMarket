@@ -1,0 +1,4 @@
+user1;password1;CUSTOMER;Γιάννης;Παπαδόπουλος
+user2;password2;CUSTOMER;Κώστας;Παπαγιάννης
+admin1;password1;ADMIN;;
+admin2;password2;ADMIN;;
