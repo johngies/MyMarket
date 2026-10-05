@@ -1,11 +1,54 @@
-# Αγνόηση όλων των .class αρχείων
+# ==============================================================================
+# Java & Bytecode
+# ==============================================================================
 *.class
+*.log
+hs_err_pid*
+replay_pid*
 
-# Αγνόηση του φακέλου out
-/out/
-
-.idea/workspace.xml
-
-*.iml
-.idea/
+# Output / Build Directories
 out/
+bin/
+build/
+target/
+
+# ==============================================================================
+# IDEs & Editors
+# ==============================================================================
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# NetBeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+
+# ==============================================================================
+# Operating System & Temporary Files
+# ==============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux / Editor Backups
+*~
+*.swp
+*.swo
